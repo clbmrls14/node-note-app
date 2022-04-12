@@ -1,0 +1,19 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node app.js"
+  },
+  "keywords": [],
+  "author": "clbmrls14",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
